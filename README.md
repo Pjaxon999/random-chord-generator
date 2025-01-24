@@ -9,4 +9,6 @@ and only chord voicings that I am personally familiar with. I will add in more a
 
 CSS Normalize + reset based on suggestions from [Matt Brictson](https://mattbrictson.com/blog/css-normalize-and-reset)  
 
-Accessible Icon Link snippets from [Kitty Giraudel](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)
+Accessible Icon Link snippets from [Kitty Giraudel](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)  
+
+[Live Demo](https://pjaxon999.github.io/random-chord-generator/)
