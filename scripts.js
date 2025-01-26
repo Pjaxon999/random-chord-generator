@@ -21,9 +21,9 @@ let chordName = document.getElementById("chord-name");
 
 
 // Arrays containing Keys and Chord Qualities
-const keys = ["A", "A#","Ab","B","Bb","C","C#","D","Db","D#","E","Eb","F","F#","G","Gb","G#"]
-const qualities = ["", "min", "maj7", "min7", "7"]
-const craigChords = ["A", "Amin", "C","D","Dmin","E","Emin","F","G"]
+const keys = ["A", "A#","Ab","B","Bb","C","C#","D","Db","D#","E","Eb","F","F#","G","Gb","G#"];
+const qualities = ["", "min", "maj7", "min7", "7"];
+const craigChords = ["A", "Amin", "C","D","Dmin","E","Emin","F","G"];
 
 // Randomly Select a key and a quality, then update the chord-name element
 let keysIndex
