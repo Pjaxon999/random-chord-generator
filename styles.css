@@ -40,11 +40,12 @@ button {
     font-size: 1.5rem;
     padding: 1rem;
     border-radius: 3vmin;
-    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
 }
 
 footer {
-    margin-top: rem;
+    margin-top: 2rem;
 }
 
 .sr-only {
