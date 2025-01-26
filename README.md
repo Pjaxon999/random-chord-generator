@@ -7,5 +7,8 @@ The inspiration to do this is based on the chords lessons from [Scotty West's Ab
 Currently, the Chord Generator will generate a chord from only common keys (no rare enharmonics)
 and only chord voicings that I am personally familiar with. I will add in more as is necessary.
 
-CSS Normalize + reset based on suggestions from [Matt Brictson](https://mattbrictson.com/blog/css-normalize-and-reset)
-Accessible Icon Link snippets from [Kitty Giraudel](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)
+CSS Normalize + reset based on suggestions from [Matt Brictson](https://mattbrictson.com/blog/css-normalize-and-reset)  
+
+Accessible Icon Link snippets from [Kitty Giraudel](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)  
+
+[Live Demo](https://pjaxon999.github.io/random-chord-generator/)
